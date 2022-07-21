@@ -12,6 +12,23 @@
 
 Источник: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
+Датасет, состоящий из 10000 строк и 14 колонок:
+
+    RowNumber
+    CustomerId
+    Surname
+    CreditScore
+    Geography
+    Gender
+    Age
+    Tenure
+    Balance
+    NumOfProducts
+    HasCrCard
+    IsActiveMember
+    EstimatedSalary
+    Exited
+
 **Ход работы**
 
 1. Подготовка данных
